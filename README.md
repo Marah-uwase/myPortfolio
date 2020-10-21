@@ -2,7 +2,7 @@
 # 21/10/2020
 ### Author:Marah-UWASE
 ## Features
-This websiteis built to practice concepts learnt including JQuery, javascript and bootstrap,
+This website is talking about my background, hobbies and skills. 
 ## Technologies used
 HTML
 CSS
