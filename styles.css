@@ -1,0 +1,95 @@
+img {
+    width: 500px;
+}
+.personal{
+    background-color: ;
+    width: 300px;
+    height: 400px;
+    margin: 10% auto;
+    }
+
+a {
+    color: rgb(13, 29, 63); 
+    text-decoration: none;
+  }
+
+  a:hover {
+    color: rgb(139, 8, 80);
+    text-decoration: none;
+  }
+  body {
+    background-color: #bdf7ca; 
+    color:rgb(37, 7, 7);
+    font-family: 'Raleway', sans-serif; 
+    text-align: center; 
+   }
+   .overlay {
+    background-color: rgba(0, 0, 0, 0.6);
+    height: 500px;
+    width: 800px;
+    margin-left: 300px;
+    font-family: 'Love Ya Like A Sister', cursive;
+    margin-top: 30px;
+}
+.soverlay {
+    background-color: rgba(0, 0, 0, 0.6);
+    height: 300px;
+    width: 800px;
+    margin-left: 300px;
+    font-family: 'Love Ya Like A Sister', cursive;
+    margin-top: 30px;
+    padding-top: 20px;
+    font-size: 20px;
+}
+.m-text{
+    font-family: 'Love Ya Like A Sister', cursive;
+    font-size: ;
+    padding-top: 20px;
+    padding-right: 10px;
+    padding-left: 10px;
+
+}
+footer {
+    margin-top: 2rem;
+    margin-bottom: 2rem;
+  }
+  h1 {
+    margin-bottom: 0.5rem;
+    margin-top: 3rem;
+   }
+
+  h2 {
+    color: #700a49;
+    margin-bottom: 2.5rem;
+    margin-top: 2.5rem;
+   }
+
+  h3 {
+    margin-bottom: 0;
+    margin-top: 2rem;
+  }
+
+  h4 {
+    margin-bottom: 1rem;
+    margin-top: 0.5rem;
+  }
+
+  h5 {
+    margin-top: 0.5rem;
+  }
+
+  hr {
+    margin-bottom: 3rem;
+    margin-top: 3rem;
+  }
+  ul {
+    display: table;
+    margin: 0 auto;
+    text-align: left;
+  }
+  .list{
+      font-family: 'Lucida Sans';
+  }
+  #project{
+      font-family: 'Lucida Sans', 'Lucida Sans Regular';
+  }
