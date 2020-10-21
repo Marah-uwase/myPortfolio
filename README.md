@@ -6,10 +6,9 @@ This website is talking about my background, hobbies and skills.
 ## Technologies used
 HTML
 CSS
-
-# no MailChimp
 ## Support and contact details
-For more information contact me on 
+you can fork and clone this project into your repository and make changes on your own.
+Or For more information contact me on 
 e-mail:maranahuwase12@gmail.com
 ### license
 MIT
