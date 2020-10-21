@@ -6,9 +6,7 @@ This website is talking about my background, hobbies and skills.
 ## Technologies used
 HTML
 CSS
-Bootstrap
-Jquerry
-Javascript
+
 # no MailChimp
 ## Support and contact details
 For more information contact me on 
