@@ -1,6 +1,6 @@
 ### myPortfolio
 # 21/10/2020
-#### Author:Marah-UWASE
+### Author:Marah-UWASE
 ## Features
 This websiteis built to practice concepts learnt including JQuery, javascript and bootstrap,
 ## Technologies used
